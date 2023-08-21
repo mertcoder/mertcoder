@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Akyıldız</h1>
-<h3 align="center">A passionate android developer from Turkey</h3>
+<h3 align="center">A passionate Android Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcoder&label=Profile%20views&color=000000&style=flat" alt="mertcoder" /> </p>
 
