@@ -20,4 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcoder&show_icons=true&locale=en&layout=compact" alt="mertcoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcoder&show_icons=true&locale=en" alt="mertcoder" /></p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/mertcoder/blob/output/github-contribution-grid-snake.gif)
