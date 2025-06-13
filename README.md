@@ -103,7 +103,9 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcoder&layout=compact&langs_count=8&cache_seconds=600" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcoder&show_icons=true&locale=en" alt="mertcoder" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcoder&show_icons=true&locale=en&cache_seconds=60" alt="mertcoder" />
+</p>
 <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
 <picture>
