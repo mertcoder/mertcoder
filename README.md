@@ -101,10 +101,12 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcoder&layout=compact&langs_count=8&cache_seconds=600" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcoder&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=600" />
+</p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcoder&show_icons=true&locale=en&cache_seconds=60" alt="mertcoder" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcoder&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60" alt="mertcoder" />
 </p>
 <h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
