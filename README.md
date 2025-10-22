@@ -4,9 +4,9 @@
 </h1>
 <h3 align="center">A passionate Android Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **a messaging app**
+- 🔭 I’m currently working on **Web3**
 
-- 🌱 I’m currently learning **Kotlin, Firebase, Jetpack Compose**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **kotlin**
 
