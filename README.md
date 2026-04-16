@@ -20,7 +20,6 @@
 - 🌱 Currently learning **Blockchain** development
 - 💬 Ask me about **Kotlin** & **Android Development**
 - 📫 Reach me at **mertakybusiness@gmail.com**
-- ⚡ Fun fact: I love building mobile apps and exploring decentralized tech
 
 ---
 
